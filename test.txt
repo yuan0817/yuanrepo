@@ -1,1 +1,1 @@
-never set up user
+test local config
