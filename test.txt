@@ -7,4 +7,4 @@ test with dt 12
 
 yuanchengit test 1
 
-test new
+test new 1
