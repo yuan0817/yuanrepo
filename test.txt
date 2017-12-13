@@ -1,10 +1,1 @@
-test local config
-
-test with dt 12
-22224444
-5555511
-444
-
-yuanchengit test 1
-
-test new 12
+test path
